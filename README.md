@@ -2,7 +2,7 @@
 
 
 
-![](https://pbs.twimg.com/profile_images/828766621065834497/UhN13W-J_400x400.jpg)
+![](![image](https://user-images.githubusercontent.com/104991677/190502968-d9ee89ba-ae3c-4312-9c53-fcdadf7a0fb3.png))
 
 
 ## Indice
