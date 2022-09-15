@@ -17,6 +17,6 @@
 ## Consultas Solicidas:
 
 *  Año con más carreras - [RESPUESTA EN HEROKU](https://pablopoletti.herokuapp.com/races)
-* [APP HEROKU](https://github.com/PabloPoletti/PI_1_API) - Repositorio utilizado para deployar la App en Heroku
-* [APP HEROKU](https://github.com/PabloPoletti/PI_1_API) - Repositorio utilizado para deployar la App en Heroku
-* [APP HEROKU](https://github.com/PabloPoletti/PI_1_API) - Repositorio utilizado para deployar la App en Heroku
+*  Piloto con mayor cantidad de primeros puestos - [RESPUESTA EN HEROKU](https://pablopoletti.herokuapp.com/Piloto)
+*  Nombre del circuito más corrido - [RESPUESTA EN HEROKU](https://pablopoletti.herokuapp.com/Circuito)
+*  Piloto con mayor cantidad de puntos en total, cuyo constructor sea de nacionalidad sea American o British - [RESPUESTA EN HEROKU](https://pablopoletti.herokuapp.com/MejorPiloto)
