@@ -1,0 +1,212 @@
+,constructorId,name,nationality
+0,1,McLaren,British
+1,2,BMW Sauber,German
+2,3,Williams,British
+3,4,Renault,French
+4,5,Toro Rosso,Italian
+5,6,Ferrari,Italian
+6,7,Toyota,Japanese
+7,8,Super Aguri,Japanese
+8,9,Red Bull,Austrian
+9,10,Force India,Indian
+10,11,Honda,Japanese
+11,12,Spyker,Dutch
+12,13,MF1,Russian
+13,14,Spyker MF1,Dutch
+14,15,Sauber,Swiss
+15,16,BAR,British
+16,17,Jordan,Irish
+17,18,Minardi,Italian
+18,19,Jaguar,British
+19,20,Prost,French
+20,21,Arrows,British
+21,22,Benetton,Italian
+22,23,Brawn,British
+23,24,Stewart,British
+24,25,Tyrrell,British
+25,26,Lola,British
+26,27,Ligier,French
+27,28,Forti,Italian
+28,29,Footwork,British
+29,30,Pacific,British
+30,31,Simtek,British
+31,32,Team Lotus,British
+32,33,Larrousse,French
+33,34,Brabham,British
+34,35,Dallara,Italian
+35,36,Fondmetal,Italian
+36,37,March,British
+37,38,Andrea Moda,Italian
+38,39,AGS,French
+39,40,Lambo,Italian
+40,41,Leyton House,British
+41,42,Coloni,Italian
+42,44,Euro Brun,Italian
+43,45,Osella,Italian
+44,46,Onyx,British
+45,47,Life,Italian
+46,48,Rial,German
+47,49,Zakspeed,German
+48,50,RAM,British
+49,51,Alfa Romeo,Italian
+50,52,Spirit,British
+51,53,Toleman,British
+52,54,ATS,Italian
+53,55,Theodore,Hong Kong
+54,56,Fittipaldi,Brazilian
+55,57,Ensign,British
+56,58,Shadow,British
+57,59,Wolf,Canadian
+58,60,Merzario,Italian
+59,61,Kauhsen,German
+60,62,Rebaque,Mexican
+61,63,Surtees,British
+62,64,Hesketh,British
+63,65,Martini,French
+64,66,BRM,British
+65,67,Penske,American
+66,68,LEC,British
+67,69,McGuire,Australian
+68,70,Boro,Dutch
+69,71,Apollon,Swiss
+70,72,Kojima,Japanese
+71,73,Parnelli,American
+72,74,Maki,Japanese
+73,75,Embassy Hill,British
+74,76,Lyncar,British
+75,77,Trojan,British
+76,78,Amon,New Zealand
+77,79,Token,British
+78,80,Iso Marlboro,British
+79,81,Tecno,Italian
+80,82,Matra,French
+81,83,Politoys,British
+82,84,Connew,British
+83,85,Bellasi,Swiss
+84,86,De Tomaso,Italian
+85,87,Cooper,British
+86,88,Eagle,American
+87,89,LDS,South African
+88,90,Protos,British
+89,91,Shannon,British
+90,92,Scirocco,British
+91,93,RE,Rhodesian
+92,94,BRP,British
+93,95,Porsche,German
+94,96,Derrington,British
+95,97,Gilby,British
+96,98,Stebro,Canadian
+97,99,Emeryson,British
+98,100,ENB,Belgium
+99,101,JBW,British
+100,102,Ferguson,British
+101,103,MBM,Swiss
+102,104,Behra-Porsche,Italian
+103,105,Maserati,Italian
+104,106,Scarab,American
+105,107,Watson,American
+106,108,Epperly,American
+107,109,Phillips,American
+108,110,Lesovsky,American
+109,111,Trevis,American
+110,112,Meskowski,American
+111,113,Kurtis Kraft,American
+112,114,Kuzma,American
+113,115,Christensen,American
+114,116,Ewing,American
+115,117,Aston Martin,British
+116,118,Vanwall,British
+117,119,Moore,American
+118,120,Dunn,American
+119,121,Elder,American
+120,122,Sutton,American
+121,123,Fry,British
+122,124,Tec-Mec,Italian
+123,125,Connaught,British
+124,126,Alta,British
+125,127,OSCA,Italian
+126,128,Gordini,French
+127,129,Stevens,American
+128,130,Bugatti,French
+129,131,Mercedes,German
+130,132,Lancia,Italian
+131,133,HWM,British
+132,134,Schroeder,American
+133,135,Pawl,American
+134,136,Pankratz,American
+135,137,Arzani-Volpini,Italian
+136,138,Nichels,American
+137,139,Bromme,American
+138,140,Klenk,German
+139,141,Simca,French
+140,142,Turner,American
+141,143,Del Roy,American
+142,144,Veritas,German
+143,145,BMW,German
+144,146,EMW,East German
+145,147,AFM,German
+146,148,Frazer Nash,British
+147,149,Sherman,American
+148,150,Deidt,American
+149,151,ERA,British
+150,152,Aston Butterworth,British
+151,153,Cisitalia,Italian
+152,154,Talbot-Lago,French
+153,155,Hall,American
+154,156,Marchese,American
+155,157,Langley,American
+156,158,Rae,American
+157,159,Olson,American
+158,160,Wetteroth,American
+159,161,Adams,American
+160,162,Snowberger,American
+161,163,Milano,Italian
+162,164,HRT,Spanish
+163,167,Cooper-Maserati,British
+164,166,Virgin,British
+165,168,Cooper-OSCA,British
+166,169,Cooper-Borgward,British
+167,170,Cooper-Climax,British
+168,171,Cooper-Castellotti,British
+169,172,Lotus-Climax,British
+170,173,Lotus-Maserati,British
+171,174,De Tomaso-Osca,Italian
+172,175,De Tomaso-Alfa Romeo,Italian
+173,176,Lotus-BRM,British
+174,177,Lotus-Borgward,British
+175,178,Cooper-Alfa Romeo,British
+176,179,De Tomaso-Ferrari,Italian
+177,180,Lotus-Ford,British
+178,181,Brabham-BRM,British
+179,182,Brabham-Ford,British
+180,183,Brabham-Climax,British
+181,184,LDS-Climax,South African
+182,185,LDS-Alfa Romeo,South African
+183,186,Cooper-Ford,British
+184,187,McLaren-Ford,British
+185,188,McLaren-Serenissima,British
+186,189,Eagle-Climax,American
+187,190,Eagle-Weslake,American
+188,191,Brabham-Repco,British
+189,192,Cooper-Ferrari,British
+190,193,Cooper-ATS,British
+191,194,McLaren-BRM,British
+192,195,Cooper-BRM,British
+193,196,Matra-Ford,French
+194,197,BRM-Ford,British
+195,198,McLaren-Alfa Romeo,British
+196,199,March-Alfa Romeo,British
+197,200,March-Ford,British
+198,201,Lotus-Pratt &amp; Whitney,British
+199,202,Shadow-Ford,British
+200,203,Shadow-Matra,British
+201,204,Brabham-Alfa Romeo,British
+202,205,Lotus,Malaysian
+203,206,Marussia,Russian
+204,207,Caterham,Malaysian
+205,208,Lotus F1,British
+206,209,Manor Marussia,British
+207,210,Haas F1 Team,American
+208,211,Racing Point,British
+209,213,AlphaTauri,Italian
+210,214,Alpine F1 Team,French
