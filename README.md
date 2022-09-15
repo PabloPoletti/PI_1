@@ -11,4 +11,4 @@
 
 
 
-* [APP HEROKU]([https://rometools.github.io/rome/](https://github.com/PabloPoletti/PI_1_API)) - Repositorio utilizado para deployar la App en Heroku
+* [APP HEROKU]([https://github.com/PabloPoletti/PI_1_API]) - Repositorio utilizado para deployar la App en Heroku
