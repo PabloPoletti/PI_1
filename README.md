@@ -12,3 +12,11 @@
 
 
 * [APP HEROKU](https://github.com/PabloPoletti/PI_1_API) - Repositorio utilizado para deployar la App en Heroku
+
+
+## Consultas Solicidas:
+
+*  Año con más carreras - [RESPUESTA EN HEROKU](https://pablopoletti.herokuapp.com/races)
+* [APP HEROKU](https://github.com/PabloPoletti/PI_1_API) - Repositorio utilizado para deployar la App en Heroku
+* [APP HEROKU](https://github.com/PabloPoletti/PI_1_API) - Repositorio utilizado para deployar la App en Heroku
+* [APP HEROKU](https://github.com/PabloPoletti/PI_1_API) - Repositorio utilizado para deployar la App en Heroku
