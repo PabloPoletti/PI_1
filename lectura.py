@@ -4,7 +4,7 @@ from mysql.connector import Error
 try:
     conexion=mysql.connector.connect(
         host='127.0.0.1',
-        port=3306,
+        port='',
         user='root',
         password='',
         db='pi_1'
