@@ -11,4 +11,4 @@
 
 
 
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [APP HEROKU]([https://rometools.github.io/rome/](https://github.com/PabloPoletti/PI_1_API)) - Repositorio utilizado para deployar la App en Heroku
