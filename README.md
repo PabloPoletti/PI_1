@@ -9,7 +9,7 @@
 ## Indice
 
 
-
+* [CONSIGNAS](https://github.com/PabloPoletti/PI_1_API) - Link al repopositorio con las consignas del Proyecto Individual 01
 
 * [APP HEROKU](https://github.com/PabloPoletti/PI_1_API) - Repositorio utilizado para deployar la App en Heroku
 
