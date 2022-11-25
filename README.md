@@ -9,7 +9,7 @@
 ## Indice
 
 
-* [CONSIGNAS](https://github.com/PabloPoletti/PI_1_API) - Link al repopositorio con las consignas del Proyecto Individual 01
+* [CONSIGNAS](https://github.com/PabloPoletti/PI01_DATA03) - Link al repopositorio con las consignas del Proyecto Individual 01
 * [APP HEROKU](https://github.com/PabloPoletti/PI_1_API) - Repositorio utilizado para deployar la App en Heroku
 * [LINK VIDEO](https://www.youtube.com/watch?v=lVWk1QYC4uo) - Video Explicativo sobre la resolución del PI 01
 
